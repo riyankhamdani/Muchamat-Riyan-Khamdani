@@ -11,4 +11,4 @@ Need battle-tested, secure, and production-ready solutions? Check out my premium
 * 🛠️ **[Production Jenkins CI/CD Pipeline (with Slack & AWS)](https://ko-fi.com/muchamatriyankhamdani)** - Fully automated, secure AWS deployment, and real-time Slack alerts.
 
 ---
-📫 **Connect with me:** [LinkedIn]([URL_LINKEDIN_LU_DI_SINI](https://www.linkedin.com/in/muchamat-riyan-khamdani-053182186/))
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/muchamat-riyan-khamdani-053182186/)
